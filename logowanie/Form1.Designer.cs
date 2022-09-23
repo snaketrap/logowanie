@@ -115,7 +115,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::logowanie.Properties.Resources._4;
-            this.pictureBox1.Location = new System.Drawing.Point(75, 258);
+            this.pictureBox1.Location = new System.Drawing.Point(75, 267);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(100, 32);
             this.pictureBox1.TabIndex = 8;
