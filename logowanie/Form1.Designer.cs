@@ -133,6 +133,7 @@
             this.label5.Size = new System.Drawing.Size(62, 15);
             this.label5.TabIndex = 9;
             this.label5.Text = "losuj nowy";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // Form1
             // 
